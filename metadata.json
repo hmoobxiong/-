@@ -1,0 +1,8 @@
+{
+  "name": "ແອບບັນທຶກຂໍ້ມູນກ່ຽວລະບົບເອກະສານພາຍໃນຫ້ອງການ",
+  "description": "Smart Internal Document Management System with Lao Language Support and Gemini AI Integration for automated extraction and querying.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
